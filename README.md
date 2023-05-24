@@ -2,7 +2,9 @@ Note-Taking Application
 The Note-Taking Application is a web-based tool that allows users to create, save, and manage notes. It provides a simple and intuitive interface for organizing and retrieving information efficiently.
 ![Alt text](../../../Downloads/Note%20Taker.gif)
 
-Features
+[Note Taker](https://github.com/MichaelFormico/Homework-11/assets/120405075/7352edc6-0140-4474-9cf8-bede0ef423c9)
+Features!
+
 Landing page with a link to the notes page
 Notes page displaying existing notes in the left-hand column
 Empty fields to enter a new note's title and text in the right-hand column
