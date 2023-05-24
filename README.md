@@ -3,6 +3,7 @@ The Note-Taking Application is a web-based tool that allows users to create, sav
 ![Alt text](../../../Downloads/Note%20Taker.gif)
 
 [Note Taker](https://github.com/MichaelFormico/Homework-11/assets/120405075/7352edc6-0140-4474-9cf8-bede0ef423c9)
+
 Features!
 
 Landing page with a link to the notes page
