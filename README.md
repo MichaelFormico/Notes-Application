@@ -63,4 +63,4 @@ License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 Contact
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
+For any questions or inquiries, please contact Mike Formico at michaelformico@gmail.com.
